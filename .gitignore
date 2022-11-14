@@ -1,0 +1,4 @@
+# ignore all files in any directory named wp-admin
+*.zip
+
+
